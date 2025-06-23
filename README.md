@@ -1,2 +1,2 @@
 # TicTac
-Jogo de tictac
+Aplicativo web TicTacToe
