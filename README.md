@@ -22,17 +22,13 @@ Vite (para ambiente de desenvolvimento)
 
 Para rodar este projeto localmente, siga os passos abaixo:
 
-1.
-Clone o repositório:
+1. Clone o repositório:
 
-2.
-Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
+ 
+3. Instale as dependências:
 
-3.
-Instale as dependências:
-
-4.
-Inicie o servidor de desenvolvimento:
+4. Inicie o servidor de desenvolvimento:
 
 O jogo estará disponível em http://localhost:5173/ (ou outra porta, se 5173 estiver em uso).
 <hr>
