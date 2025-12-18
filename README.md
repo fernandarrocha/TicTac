@@ -4,7 +4,7 @@ Este é um projeto de Jogo da Velha moderno, desenvolvido para explorar as funci
 
 ## 🚀 Demonstração
 O projeto está publicado na **Vercel** e pode ser testado aqui: 
-[https://tic-tac-one-psi.vercel.app/](https://tic-tac-one-psi.vercel.app/)]
+[https://tic-tac-one-psi.vercel.app/](https://tic-tac-one-psi.vercel.app/)
 
 ## 🛠️ Tecnologias e Ferramentas
 - **React 19**: Utilização de Hooks (`useState`) para gestão de estados complexos.
