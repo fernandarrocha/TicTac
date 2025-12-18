@@ -1,37 +1,27 @@
-# TicTac
+# 🎮 Tic Tac Toe
 
-Este repositório contém o código-fonte de um jogo da velha (Tic Tac Toe) desenvolvido para a web.
-<hr>
+Este é um projeto de Jogo da Velha moderno, desenvolvido para explorar as funcionalidades mais recentes do **React 19**. Diferente de uma implementação simples, este projeto foca na imutabilidade do estado e no rastreio de histórico de ações.
 
-## Tecnologias Utilizadas
+## 🚀 Demonstração
+O projeto está publicado na **Vercel** e pode ser testado aqui: 
+[https://tic-tac-one-psi.vercel.app/](https://tic-tac-one-psi.vercel.app/)]
 
-•
-HTML
+## 🛠️ Tecnologias e Ferramentas
+- **React 19**: Utilização de Hooks (`useState`) para gestão de estados complexos.
+- **Vite**: Build tool de alta performance para um desenvolvimento ágil.
+- **JavaScript (ES6+)**: Lógica de algoritmos para verificação de vencedores.
+- **CSS3**: Estilização com foco em UI moderna (Glassmorphism) e responsividade.
+- **ESLint**: Configurado para garantir a padronização e qualidade do código.
 
-•
-CSS
+## 🧠 Diferenciais Técnicos
+- **Time Travel (Histórico)**: O jogo armazena cada movimento num array imutável, permitindo a gestão do estado de forma previsível.
+- **Persistência de Sessão**: Implementei um sistema de "Histórico de Ganhadores" que mantém o registo dos vencedores da sessão, mesmo após o tabuleiro ser reiniciado.
+- **Imutabilidade**: Uso de padrões de cópia de arrays (`slice()`) para evitar mutações diretas no estado do React, seguindo as melhores práticas da biblioteca.
 
-•
-JavaScript
-
-•
-Vite (para ambiente de desenvolvimento)
-<hr>
-
-## Como Rodar o Projeto
-
-Para rodar este projeto localmente, siga os passos abaixo:
-
+## 📂 Como Rodar Localmente
 1. Clone o repositório:
-
-2. Navegue até o diretório do projeto:
- 
-3. Instale as dependências:
-
-4. Inicie o servidor de desenvolvimento:
-
-O jogo estará disponível em http://localhost:5173/ (ou outra porta, se 5173 estiver em uso).
-<hr>
+   ```bash
+   git clone [https://github.com/fernandarrocha/TicTac.git](https://github.com/fernandarrocha/TicTac.git)
 
 ## Funcionalidades
 
@@ -43,5 +33,3 @@ Interface simples e intuitiva.
 
 •
 Design responsivo para diferentes tamanhos de tela.
-
-
